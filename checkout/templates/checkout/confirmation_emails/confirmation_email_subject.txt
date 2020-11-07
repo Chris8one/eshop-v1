@@ -1,0 +1,1 @@
+Chris of Sweden Confirmation for Order Number {{ order.order_number }}
