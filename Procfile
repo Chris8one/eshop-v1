@@ -1,1 +1,1 @@
-web: gunicorn chrisofsweden.wsgi:application
+web: gunicorn eshop.wsgi:application
